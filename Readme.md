@@ -2,6 +2,9 @@
 ## 网络
 1. [《IPv4简述》](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
 
+## 视频
+1. [阿尔法狗 AlphaGo 2017](https://www.youtube.com/watch?v=9UewW8sF4gs)(自挂梯子)
+
 ## 其他
 1. [幕后丨会做产品的程序猿，独立开发者：图拉鼎](https://sspai.com/post/30876)
 2. [专访 Things：两次获得苹果设计大奖的老牌任务管理工具 | 幕后](https://sspai.com/post/39724)
