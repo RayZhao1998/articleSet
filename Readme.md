@@ -2,6 +2,9 @@
 ## 网络
 1. [《IPv4简述》](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
 
+## 比特币&区块链
+1. [比特币入门教程](http://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html)
+
 ## 视频
 1. [阿尔法狗 AlphaGo 2017](https://www.youtube.com/watch?v=9UewW8sF4gs)(自挂梯子)
 
