@@ -9,7 +9,7 @@
 3. [200 行代码实现一个简单的区块链](http://blog.jobbole.com/110860/)
 
 ## Git
-1. [如何优雅地使用 Git](https://juejin.im/post/5a54386af265da3e3b7a6317)
+1. [如何优雅地使用 Git](https:gi//juejin.im/post/5a54386af265da3e3b7a6317)
 
 ## 视频
 1. [阿尔法狗 AlphaGo 2017](https://www.youtube.com/watch?v=9UewW8sF4gs)(自挂梯子)
