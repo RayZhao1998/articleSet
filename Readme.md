@@ -1,4 +1,7 @@
 # 2018年阅读文章合集
+## Python
+1. [小猪的Python学习之旅 —— 2.爬虫初涉](https://juejin.im/post/5a56c188f265da3e2c38009c)
+
 ## 网络
 1. [《IPv4简述》](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
 2. [九个问题从入门到熟悉HTTPS](https://juejin.im/post/5a2ff29c6fb9a045132aac5a)
