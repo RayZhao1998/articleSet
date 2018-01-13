@@ -14,6 +14,9 @@
 ## Git
 1. [如何优雅地使用 Git](https:gi//juejin.im/post/5a54386af265da3e3b7a6317)
 
+## 设计
+1. [Android UI 设计规范](https://www.jianshu.com/p/b38e81be51ca/)
+
 ## 视频
 1. [阿尔法狗 AlphaGo 2017](https://www.youtube.com/watch?v=9UewW8sF4gs)(自挂梯子)
 
