@@ -1,6 +1,10 @@
 # 2018年阅读文章合集
 ## iOS开发
 1. [如何用 Swift 语言构建一个自定控件](http://beyondvincent.com/2014/08/28/2014-08-27-How-To-Make-a-Custom-Control-in-Swift/)
+2. [OneClock的翻页时钟效果是如何实现的？](https://weibo.com/ttarticle/p/show?id=2309404196106639646085)
+
+## Android开发
+1. [Android 约束布局（ConstraintLayout）详解](http://blog.csdn.net/airsaid/article/details/79052011)
 
 ## Python
 1. [小猪的Python学习之旅 —— 2.爬虫初涉](https://juejin.im/post/5a56c188f265da3e2c38009c)
