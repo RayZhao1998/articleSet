@@ -12,6 +12,7 @@
 ## 网络
 1. [《IPv4简述》](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
 2. [九个问题从入门到熟悉HTTPS](https://juejin.im/post/5a2ff29c6fb9a045132aac5a)
+3. [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 
 ## 比特币&区块链
 1. [比特币入门教程](http://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html)
