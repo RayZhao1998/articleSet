@@ -2,6 +2,16 @@
 ## iOS开发
 1. [如何用 Swift 语言构建一个自定控件](http://beyondvincent.com/2014/08/28/2014-08-27-How-To-Make-a-Custom-Control-in-Swift/)
 2. [OneClock的翻页时钟效果是如何实现的？](https://weibo.com/ttarticle/p/show?id=2309404196106639646085)
+3. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第1篇](https://zhuanlan.zhihu.com/p/29746936)
+4. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第2篇](https://zhuanlan.zhihu.com/p/30048327)
+5. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第3篇](https://zhuanlan.zhihu.com/p/30121064)
+6. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第4篇](https://zhuanlan.zhihu.com/p/30544398)
+7. [让不懂编程的人爱上iPhone开发(2017iOS11+Swift4+Xcode9版)-第5篇](https://zhuanlan.zhihu.com/p/30544565)
+8. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第6篇](https://zhuanlan.zhihu.com/p/30544829)
+9. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第7篇](https://zhuanlan.zhihu.com/p/30561624)
+10. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第8篇](https://zhuanlan.zhihu.com/p/30562045)
+11. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第9篇](https://zhuanlan.zhihu.com/p/30562336)
+12. [让不懂编程的人爱上iPhone开发(2017秋iOS11+Swift4+Xcode9版)-第10篇](https://zhuanlan.zhihu.com/p/30562810)
 
 ## Android开发
 1. [Android 约束布局（ConstraintLayout）详解](http://blog.csdn.net/airsaid/article/details/79052011)
