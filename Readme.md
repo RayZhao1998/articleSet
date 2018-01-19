@@ -41,6 +41,7 @@
 
 ## 设计
 1. [Android UI 设计规范](https://www.jianshu.com/p/b38e81be51ca/)
+2. [开源和开放设计 - Make Icons Witch Sketch](https://www.jianshu.com/p/e3de4fbd105f)
 
 ## 视频
 1. [阿尔法狗 AlphaGo 2017](https://www.youtube.com/watch?v=9UewW8sF4gs)(自挂梯子)
