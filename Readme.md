@@ -21,6 +21,7 @@
 
 ## Android开发
 1. [Android 约束布局（ConstraintLayout）详解](http://blog.csdn.net/airsaid/article/details/79052011)
+2. [10分钟了解Android项目构建流程](https://juejin.im/post/5a69c0ccf265da3e2a0dc9aa)
 
 ## Python
 1. [小猪的Python学习之旅 —— 2.爬虫初涉](https://juejin.im/post/5a56c188f265da3e2c38009c)
