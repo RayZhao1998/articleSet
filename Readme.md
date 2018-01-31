@@ -21,8 +21,11 @@
 
 ## Android开发
 1. [Android 约束布局（ConstraintLayout）详解](http://blog.csdn.net/airsaid/article/details/79052011)
-2. [10分钟了解Android项目构建流程](https://juejin.im/post/5a69c0ccf265da3e2a0dc9aa    )
+2. [10分钟了解Android项目构建流程](https://juejin.im/post/5a69c0ccf265da3e2a0dc9aa)
 3. [Java&Android 基础知识梳理(1) 注解](https://juejin.im/post/5a30faa06fb9a0450d1112db)
+
+## 非原生App开发
+1. [Weex + Ui - Weex Conf 2018](https://zhuanlan.zhihu.com/p/33153760)
 
 ## Python
 1. [小猪的Python学习之旅 —— 2.爬虫初涉](https://juejin.im/post/5a56c188f265da3e2c38009c)
@@ -32,6 +35,9 @@
 2. [九个问题从入门到熟悉HTTPS](https://juejin.im/post/5a2ff29c6fb9a045132aac5a)
 3. [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 4. [Android网络编程（一）HTTP协议原理](http://blog.csdn.net/itachi85/article/details/50982995)
+5. [软件工程师需要了解的网络知识：从铜线到HTTP（一）—— 前言](https://lvwenhan.com/操作系统/485.html)
+6. [软件工程师需要了解的网络知识：从铜线到HTTP（二）—— 以太网与交换机](https://lvwenhan.com/操作系统/486.html)
+
 
 ## 比特币&区块链
 1. [比特币入门教程](http://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html)
